@@ -1,0 +1,4 @@
+Synth Shooter
+Planning
+	Determine meeting days
+	Come up with User Stories
